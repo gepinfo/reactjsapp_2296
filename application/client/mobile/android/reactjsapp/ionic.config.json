@@ -1,0 +1,7 @@
+{
+  "name": "reactjsapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
